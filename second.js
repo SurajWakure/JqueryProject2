@@ -10,3 +10,5 @@ $(document).ready(function(){
 //another one change 
 //please change
 //i am changing
+
+//how to change the new changes 
