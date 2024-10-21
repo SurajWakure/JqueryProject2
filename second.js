@@ -12,3 +12,4 @@ $(document).ready(function(){
 //i am changing
 
 //how to change the new changes 
+//now new changes 
