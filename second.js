@@ -4,3 +4,4 @@ $(document).ready(function(){
         $(this).addClass("selected").siblings().removeClass("selected");
     });
 });
+//changes
